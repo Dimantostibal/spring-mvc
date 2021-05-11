@@ -1,8 +1,6 @@
 package web.service;
 
-import web.carDAO.CarDAO;
 import web.model.Car;
-
 import java.util.List;
 
 public interface CarService {
